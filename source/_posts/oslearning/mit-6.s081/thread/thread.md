@@ -1,4 +1,9 @@
-## Thread Switch
+---
+title: Thread Switch
+date: 2023-10-05 14:56:42
+tags: 操作系统，计算机基础, C
+categories: 操作系统
+---
 
 ### 线程切换的重点
 

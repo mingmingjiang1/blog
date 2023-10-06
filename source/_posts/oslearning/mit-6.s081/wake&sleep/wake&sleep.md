@@ -1,4 +1,9 @@
-## sleep &wakeup
+---
+title: Sleep & Wakeup
+date: 2023-10-05 14:56:42
+tags: 操作系统，计算机基础, C
+categories: 操作系统
+---
 
 像锁一样，sleep是另一种帮助程序线性化的工具
 

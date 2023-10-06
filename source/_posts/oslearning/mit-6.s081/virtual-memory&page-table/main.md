@@ -1,4 +1,9 @@
-## 虚拟内存和页表
+---
+title: Virtual Memory and Page Table
+date: 2023-10-05 14:56:42
+tags: 操作系统，计算机基础, C
+categories: 操作系统
+---
 
 内存分配：由proc.h里的freerange函数管理，以链表的形式进行管理
 

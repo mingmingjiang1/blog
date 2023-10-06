@@ -1,4 +1,9 @@
-## 高性能文件系统——ext3
+---
+title: File system Performance
+date: 2023-10-05 14:56:42
+tags: 操作系统，计算机基础, C
+categories: 操作系统
+---
 
 首先来回顾一下XV6的logging系统。我们有一个磁盘用来存储XV6的文件系统，你可以认为磁盘分为了两个部分：
 

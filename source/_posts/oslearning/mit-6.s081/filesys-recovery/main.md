@@ -1,4 +1,9 @@
-## Recovery
+---
+title: File system Recovery
+date: 2023-10-05 14:56:42
+tags: 操作系统，计算机基础, C
+categories: 操作系统
+---
 
 这里我们关心的crash或者故障包括了：在文件系统操作过程中的电力故障；在文件系统操作过程中的内核panic。包括XV6在内的大部分内核都会panic，panic可能是由内核bug引起，它会突然导致你的系统故障，但是你肯定期望能够在重启之后还能使用文件系统。
 
