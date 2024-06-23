@@ -1,8 +1,8 @@
 ---
 title: debug
 date: 2023-05-07 16:52:00
-tags: 前端，node，调试，debug
-categories: 前端
+tags: FE，node，调试，debug
+categories: FE
 ---
 
 ## 日志工具

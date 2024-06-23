@@ -1,8 +1,8 @@
 ---
 title: XXS
 date: 2023-05-05 23:32:24
-tags: 前端，xxs，跨站脚本攻击
-categories: 前端
+tags: FE，xxs，跨站脚本攻击
+categories: FE
 ---
 
 XSS (Cross-site scripting)，即跨站脚本攻击，应该是前端同学都应该听过的网络安全相关的名词。它是一种尝试注入恶意脚本代码到网站上的攻击形式。它可以使得恶意使用者的代码在受影响用户的浏览器端执行，并对用户的影响。原本简称 css，为了与前端的级联样式表(cascader style sheet)区分，改称 xss。
